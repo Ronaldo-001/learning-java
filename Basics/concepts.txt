@@ -1,0 +1,56 @@
+Java Basics
+-- Sample Code (print hello world)
+-- explain main
+-- explain static
+-- explain command line
+-- Sample output
+-- Commets
+-- Single line
+-- Multi line
+
+Data Types
+-- byte short , int , long , float ,double , char
+
+Operators
+-- Arithematic
+-- Unary Operators (+, -, ++, --, ! )
+-- Relational Operators
+-- Logical Operators (&&, || )
+-- Assignment Operators
+-- Bitwise (To be done in Bit Minipulation)
+-- Ternary Operators
+
+Strings
+-- define , immutable
+-- char array to string
+-- concatenate, length, charAt, sunstring, equals
+
+Input / Output
+-- Scanner class
+-- nextInt, nextDouble, nextLine, nextBoolean, next
+-- Why not BufferedReader
+
+Type Casting
+-- Implicit
+-- Explicit
+
+Constants
+-- final keyword
+
+Arrays
+-- declaration, length, accessing
+-- for each loop
+-- 2D array
+
+Conditional Statements
+-- if else
+-- if else if
+-- nested if else
+-- switch
+
+Loops
+-- for loops
+-- while loops
+-- do while loops ( )
+
+Exception Handling (try-catch)
