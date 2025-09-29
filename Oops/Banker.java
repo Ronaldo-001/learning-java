@@ -1,3 +1,4 @@
+//Abstract Class
 abstract class StateBankAccount{  // cannot create object for a abstract class
     double balance=1000.888;
     abstract void addMoney(double money);  // methods are written w/o definition or logic
@@ -59,4 +60,5 @@ public class Banker {
 /*
  *so here on abstract class i declared the function with 0 parameters 
   and in the derived classes i redefined the function of abt class based on the requirements
+
  */
